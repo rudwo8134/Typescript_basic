@@ -110,6 +110,8 @@
     "dist",
     "part1/*.ts",
     "part1/*.tsx",
+    "part2/*.ts",
+    "part2/*.tsx",
     "**/*.dev.ts"
   ]
 }
